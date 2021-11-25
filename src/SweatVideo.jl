@@ -4,7 +4,8 @@ using ColorTypes
 using VideoIO
 using ImageFiltering
 using Graphs
-using CSVFiles, FileIO
+using CSVFiles
+using FileIO
 # using FFTW
 
 @assert 1==1
